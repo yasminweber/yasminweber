@@ -1,13 +1,9 @@
 # Hello there 👋!
 ## About me
-- [ ] 📚 I'm currenty in the last semester of Information Systems at PUCPR
-- [ ] 💻 I work at Job Space Creative, mainly with Front-End Development
+- [ ] 💻 I'm a Full-Stack developer, but I prefer Front-End
+- [ ] 📚 Have a Bachelor Degree in Information Systems by PUCPR
 - [ ] ❤️ I love music 🎵 and travelling 🗺️
-- [ ] 🌎 I'm also polyglot:
-  - [ ] <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" height="20">
-  - [ ] <img src="https://cdn-icons-png.flaticon.com/512/330/330459.png" height="20">
-  - [ ] <img src="https://cdn-icons-png.flaticon.com/512/330/330487.png" height="20">
-  - [ ] <img src="https://cdn-icons-png.flaticon.com/512/330/330523.png" height="20">
+- [ ] 🌎 I'm polyglot: <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" height="20"> <img src="https://cdn-icons-png.flaticon.com/512/330/330459.png" height="20"> <img src="https://cdn-icons-png.flaticon.com/512/330/330487.png" height="20"> <img src="https://cdn-icons-png.flaticon.com/512/330/330523.png" height="20">
 - [ ] You can also find me on <a href="https://www.linkedin.com/in/yasmin-weber/" target="_blank" rel="noopener noreferrer">LinkedIn</a> and <a href="https://open.spotify.com/user/yasminweber" target="_blank"> Spotify</a>
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yasminweber&count=3)
